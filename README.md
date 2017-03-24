@@ -1,1 +1,1 @@
-# MIS307
+Accounts Receivable project for MIS 307.
