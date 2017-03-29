@@ -1,1 +1,1 @@
-Accounts Receivable collaborative project for MIS 307.
+Payroll collaborative project for MIS 307.
